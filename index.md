@@ -47,7 +47,7 @@ The dataset contains the listing details of homestays inSeatle. 3818 listings de
 
 
 ### Here, there are 3 business questions asked that we are trying to answer:
-1-	Which type of properties has the highest number of hosts? 
+1-	Which type of properties has the highest number of hosts?
 2-	What are the top 5 neighborhoods that have the maximum number of hosts?
 3-	Which neighborhoods have the highest average of prices and the neighborhoods have the lowest average of prices?
 
