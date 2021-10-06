@@ -69,7 +69,7 @@ The hosts in the listings are offered within 81 neighborhoods. However, there ar
 
 The chart below shows the number of hosts for every neighborhood:
 
-<center> ![Image](images/q2_img.png) </center>
+ ![Image](images/q2_img.png) 
 
 
 
@@ -88,7 +88,7 @@ Portage Bay          241.428571
 Westlake             197.000000
 Alki                 196.652174
 
-<center> ![Image](images/q3_1_img.png) </center>
+ ![Image](images/q3_1_img.png) 
 
  Low 5 neighbourhoods :
 
@@ -102,4 +102,4 @@ Georgetown     77.000000
 ```
 
 
-<center> ![Image](images/q3_2_img.png) </center>
+![Image](images/q3_2_img.png) 
