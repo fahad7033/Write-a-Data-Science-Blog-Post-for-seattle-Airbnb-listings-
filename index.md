@@ -53,6 +53,7 @@ The pie chart below shows thoes top 5 neighbourhoods:
 
  ![Image](images/q3_1_image.png) 
 
+```markdown
  Low 5 neighbourhoods :
 
 neighbourhood   price
@@ -62,7 +63,7 @@ Olympic Hills  63.666667
 Dunlap         71.750000
 Rainier Beach  76.722222
 Georgetown     77.000000
-
+```
 
 The pie chart below shows those low 5 neighbourhoods:
 
