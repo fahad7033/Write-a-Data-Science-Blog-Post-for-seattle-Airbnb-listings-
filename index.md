@@ -54,7 +54,7 @@ The dataset contains the listing details of homestays inSeatle. 3818 listings de
 ## Question 1: Which type of properties has the highest number of hosts? 
 In the listing dataset there are 16 types of properties. The types of properties that have the maximum number of hosts are houses and apartments. Houses represent 45.75% of the listings where apartments represent 44.46% of the listings. The below chart shows the count of properties according to each type.  
  
-<center> ![Image](images/q1_img.png) </center>
+ ![Image](images/q1_img.png) 
 
 ## Question 2: What are the top 5 neighborhoods that have the maximum number of hosts?
 The hosts in the listings are offered within 81 neighborhoods. However, there are some neighborhoods have more number of hosts. The data shows that 10.32% of the hosts are located in “Capitol Hill”. Here are the top 5 neighborhoods that have the maximum number of hosts:
