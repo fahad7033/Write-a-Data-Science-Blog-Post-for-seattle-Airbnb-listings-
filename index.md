@@ -103,4 +103,5 @@ Georgetown     77.000000
 ```
 
 The pie chart below shows those low 5 neighbourhoods:
+
 ![Image](images/q3_2_img.png) 
