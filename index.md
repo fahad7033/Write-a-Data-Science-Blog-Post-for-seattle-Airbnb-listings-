@@ -88,7 +88,8 @@ Portage Bay          241.428571
 Westlake             197.000000
 Alki                 196.652174
 
- ![Image](images/q3_1_img.png) 
+The pie chart below shows thoes top 5 neighbourhoods:
+ ![Image](images/q3_1_image.png) 
 
  Low 5 neighbourhoods :
 
@@ -101,5 +102,5 @@ Rainier Beach  76.722222
 Georgetown     77.000000
 ```
 
-
+The pie chart below shows those low 5 neighbourhoods:
 ![Image](images/q3_2_img.png) 
