@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 AS a part of the Udacity data scientist nanodegree, this blog post presents 3 business questions about Seattle Airbnb Dataset. The reference of the dataset is presented at the end of the post.
 The dataset contains the listing details of homestays inSeatle. 3818 listings details are available in the dataset (92 features) as shown below:
 
-![Image](images/q1_img.png)
+![Image]()
 
 
 ### Here, there are 3 business questions asked that we are trying to answer:
@@ -54,7 +54,7 @@ The dataset contains the listing details of homestays inSeatle. 3818 listings de
 ## Question 1: Which type of properties has the highest number of hosts? 
 In the listing dataset there are 16 types of properties. The types of properties that have the maximum number of hosts are houses and apartments. Houses represent 45.75% of the listings where apartments represent 44.46% of the listings. The below chart shows the count of properties according to each type.  
  
-![Image](src)
+<center> ![Image](![Image](images/q1_img.png)) </center>
 
 ## Question 2: What are the top 5 neighborhoods that have the maximum number of hosts?
 The hosts in the listings are offered within 81 neighborhoods. However, there are some neighborhoods have more number of hosts. The data shows that 10.32% of the hosts are located in “Capitol Hill”. Here are the top 5 neighborhoods that have the maximum number of hosts:
@@ -69,7 +69,7 @@ The hosts in the listings are offered within 81 neighborhoods. However, there ar
 
 The chart below shows the number of hosts for every neighborhood:
 
-![Image](src)
+<center> ![Image](![Image](images/q2_img.png)) </center>
 
 
 
@@ -88,6 +88,7 @@ Portage Bay          241.428571
 Westlake             197.000000
 Alki                 196.652174
 
+<center> ![Image](![Image](images/q3_1_img.png)) </center>
 
  Low 5 neighbourhoods :
 
@@ -100,5 +101,5 @@ Rainier Beach  76.722222
 Georgetown     77.000000
 ```
 
-![Image](src)
-![Image](src)
+
+<center> ![Image](![Image](images/q3_2_img.png)) </center>
