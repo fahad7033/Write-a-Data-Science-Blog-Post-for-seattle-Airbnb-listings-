@@ -1,13 +1,16 @@
 # Data science blog post for Seattle Airbnb listings dataset
 ![Image](images/welcome.png)
 
+<br>
 
-AS a part of the Udacity data scientist nanodegree, this blog post presents 3 business questions about Seattle Airbnb Dataset. The dataset contains the listing details of homestays inSeatle. 3818 listings details are available in the dataset (92 features) as shown below:
+## Overview
+
+Airbnb is a marketplace that offers a wide range of hosts in different places arround the world. AS a part of the Udacity data scientist nanodegree, this blog post presents 3 business questions about Seattle Airbnb listings Dataset. The dataset contains the listing details of homestays inSeatle. 3818 listings details are available in the dataset (92 features) as shown below:
 
 ![Image](images/table.png)
 
 
-### Here, there are 3 business questions asked that we are trying to answer:
+#### Here, there are 3 business questions asked that we are trying to answer:
 1.	Which type of properties has the highest number of hosts?
 2.	What are the top 5 neighborhoods that have the maximum number of hosts?
 3.	Which neighborhoods have the highest average of prices and the neighborhoods have the lowest average of prices?
@@ -68,3 +71,7 @@ Georgetown     77.000000
 The pie chart below shows those low 5 neighbourhoods:
 
 ![Image](images/q3_2_img.png) 
+
+
+## Summury
+In this post, we analysed the Airbnb listings dataset to answer 3 business questions. We found that the majority of hosts in the dataset are houses which represents 45.75% of the dataset. We also found that Capitol Hill neighborhood contains the highest number of hosts. We also specified the top 5 and low 5 neighbourhoods in terms of average prices.
