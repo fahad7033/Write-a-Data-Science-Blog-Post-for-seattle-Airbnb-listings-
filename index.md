@@ -1,4 +1,4 @@
-
+# Data science blog post for Seattle Airbnb listings dataset
 
 
 AS a part of the Udacity data scientist nanodegree, this blog post presents 3 business questions about Seattle Airbnb Dataset. The dataset contains the listing details of homestays inSeatle. 3818 listings details are available in the dataset (92 features) as shown below:
